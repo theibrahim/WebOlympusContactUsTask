@@ -1,9 +1,16 @@
-# React + Vite
+# Web Olympus - Contact Us Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + TailwindCSS
+## Installation
+1. **Clone the repository:** `git clone https://github.com/your-username/web-olympus-contactus.git`
+2. **Navigate to the project directory:** `cd web-olympus-contactus`
+3. **Install dependencies:** `npm install`
 
-Currently, two official plugins are available:
+## Usage
+- **Development:** `npm run dev`
+- **Build:** `npm run build`
+- **Lint:** `npm run lint`
+- **Preview:** `npm run preview`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# WebOlympusContactUsTask
+## License
+This project is licensed under the MIT License.
