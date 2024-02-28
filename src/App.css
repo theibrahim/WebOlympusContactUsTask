@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: GanoraFont;
+  src: url("./assets/font/Ganora.otf");
+}
+
+* {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.ganora-font {
+  font-family: GanoraFont !important;
+}
