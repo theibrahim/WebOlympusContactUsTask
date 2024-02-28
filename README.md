@@ -2,8 +2,8 @@
 
 React + TailwindCSS
 ## Installation
-1. **Clone the repository:** `git clone https://github.com/your-username/web-olympus-contactus.git`
-2. **Navigate to the project directory:** `cd web-olympus-contactus`
+1. **Clone the repository:** `git clone https://github.com/theibrahim/WebOlympusContactUsTask.git`
+2. **Navigate to the project directory:** `cd WebOlympusContactUsTask`
 3. **Install dependencies:** `npm install`
 
 ## Usage
